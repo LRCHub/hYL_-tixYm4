@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "アーモンド",
+  "base_artist": "indigo la End",
+  "createdAt": "2026-02-15T16:46:05.693046Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アーモンド",
+      "artist": "indigo la End",
+      "has_synced": true,
+      "path": "select/01_アーモンド_indigo_la_End.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アーモンド (Almond)",
+      "artist": "Ore Ska Band",
+      "has_synced": true,
+      "path": "select/02_アーモンド_(Almond)_Ore_Ska_Band.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アーモンド",
+      "artist": "OreSkaBand",
+      "has_synced": true,
+      "path": "select/03_アーモンド_OreSkaBand.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アーモンド",
+      "artist": "indigo la End",
+      "has_synced": false,
+      "path": "select/pl_01_アーモンド_indigo_la_End.txt"
+    }
+  ]
+}
