@@ -1,40 +1,32 @@
 {
   "version": 1,
-  "base_track": "ABCDC",
+  "base_track": "ラッパーの涙",
   "base_artist": "indigo la End",
-  "createdAt": "2026-02-20T15:33:55.761835Z",
+  "createdAt": "2026-02-28T16:37:07.294941Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "ABCDC",
+      "title": "ラッパーの涙",
       "artist": "indigo la End",
       "has_synced": true,
-      "path": "select/01_ABCDC_indigo_la_End.lrc"
+      "path": "select/01_ラッパーの涙_indigo_la_End.lrc"
     },
     {
       "id": "lrclib_2",
       "source": "lrclib",
-      "title": "ABCDC",
-      "artist": "Creep Hyp",
+      "title": "ラッパーの涙 [Rapper's Tears]",
+      "artist": "indigo la End",
       "has_synced": true,
-      "path": "select/02_ABCDC_Creep_Hyp.lrc"
-    },
-    {
-      "id": "lrclib_3",
-      "source": "lrclib",
-      "title": "ABCDC",
-      "artist": "CreepHyp",
-      "has_synced": true,
-      "path": "select/03_ABCDC_CreepHyp.lrc"
+      "path": "select/02_ラッパーの涙_[Rapper's_Tears]_indigo_la_End.lrc"
     },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "ABCDC",
+      "title": "ラッパーの涙",
       "artist": "indigo la End",
       "has_synced": false,
-      "path": "select/pl_01_ABCDC_indigo_la_End.txt"
+      "path": "select/pl_01_ラッパーの涙_indigo_la_End.txt"
     }
   ]
 }
